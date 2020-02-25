@@ -1,0 +1,213 @@
+body {
+	background-color: #e6b87c;
+}
+
+/*Headers*/
+.sHeader {
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 3px;
+	background-color: gray;
+}
+
+.tHeader {
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 3px;
+	background-color: gray;
+}
+
+.aHeader {
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 3px;
+	background-color: gray;
+}
+
+/*Button config*/
+.button {
+	border: 2px solid black;
+	background-color: white;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button:hover {
+	background-color: black;
+	color: white;
+}
+
+/*titles*/
+.sTitle {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+.tTitle {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+.aTitle {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+.signUpTitle {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+.signInTitle {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 22px;
+}
+
+/*forms*/
+.sForm {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.lOutForm {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+.sForm table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.sForm table, tr, td, th {
+	border: 2px solid black;
+}
+
+.tForm {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.tForm table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tForm table, tr, td, th {
+	border: 2px solid black;
+}
+
+#signUpForm {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+#signInForm {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.sIn {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*displays*/
+.sDisplay {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.sDisplay table, th, tr, td {
+	border: 2px solid black;
+}
+
+.sDisplay table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tDisplay {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.tDisplay table, th, tr, td {
+	border: 2px solid black;
+}
+
+.tDisplay table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.aDisplay {
+	background-color: gray;
+	border: 3px solid black;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+.aDisplay table, th, tr, td {
+	border: 2px solid black;
+}
+
+.aDisplay table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.txtHint {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+.txtHint table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.txtHint table, tr, td, th {
+	border: 2px solid black;
+}
